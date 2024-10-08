@@ -71,4 +71,9 @@ fun main() {
     } else {
         println("a is positive")
     }
+
+    var x1 = 10
+    var x2 = 20
+    var res =if (x1<x2) "One Big" else "Two Big"
+
 }
